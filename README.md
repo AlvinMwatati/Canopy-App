@@ -7,7 +7,7 @@
 - **Tool Hiring**: Conveniently order equipment for your construction projects.
 
 ## Technologies Used
-- **Frontend**: [Framework/Language used Flutter.]
+- **Frontend**: [Framework/Language used Flutter and Dart.]
 - **Backend**: [Backend technology used PHP]
 - **Database**: [Database used MySQL on XAMPP server]
 
